@@ -1,16 +1,6 @@
-# magic_app
+# Magic the Gathering
 
-A new Flutter project.
+![image](https://github.com/GuilhermeSilvestre/Flutter-MagicTheGathering/assets/100291684/4808a282-76f1-4984-a7d2-d162a111c92c)
 
-## Getting Started
+![image](https://github.com/GuilhermeSilvestre/Flutter-MagicTheGathering/assets/100291684/b7136797-f171-4aa8-bbc6-88c67637761b)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
